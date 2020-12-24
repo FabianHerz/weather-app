@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1018282713185",
+    "project_id": "my-weather-a8799",
+    "storage_bucket": "my-weather-a8799.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1018282713185:android:5eba0620cf1f0d78dd0a20",
+        "android_client_info": {
+          "package_name": "fabian.my_weather"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1018282713185-9nc8vuraon6736ioub9eoifgvf07q70e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "fabian.my_weather",
+            "certificate_hash": "d2205849ba57f3c8f25b4b3114503006a84b9ccb"
+          }
+        },
+        {
+          "client_id": "1018282713185-4rnsme0pmnehqk9jhmaqnf82mndr1qgo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfxA_uoCp3xD0maAS-hacBZhRr1yVMpso"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1018282713185-4rnsme0pmnehqk9jhmaqnf82mndr1qgo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
